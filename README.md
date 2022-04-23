@@ -12,3 +12,5 @@ CRM per la gestione di utenti (admin o user), clienti e fatture.
 * npm i bootstrap
 
 * npm i bootstrap-icons
+
+* ng s -o
